@@ -3,6 +3,7 @@
 - 🌱 I’m currently using JS & TS, Java。
 - 📫 Reach me: 987751945@qq.com
 - 😄 Pronouns: Arvin
+- ![image](https://user-images.githubusercontent.com/46149128/222993954-8e15c993-e613-4552-a295-837b81f39715.png) https://discord.gg/4mVjKkAKu3
 - 👏 Follow Me: [![](https://img.shields.io/github/followers/iconFehu?label=follow%20me&style=social)](https://github.com/iconFehu/)
 
 <!--

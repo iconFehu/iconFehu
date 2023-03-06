@@ -1,11 +1,11 @@
 ### Hi there 👋
 - 🔭 I’m currently working in Wuhan China.
 - 🌱 I’m currently using JS & TS, Java。
-- 📫 Reach me: 987751945@qq.com
+- 📫 Reach me: 987751945@qq.com https://discord.gg/4mVjKkAKu3
 - 😄 Pronouns: Arvin
 - 👏 Follow Me: [![](https://img.shields.io/github/followers/iconFehu?label=follow%20me&style=social)](https://github.com/iconFehu/)
 
-![image](https://user-images.githubusercontent.com/46149128/222993954-8e15c993-e613-4552-a295-837b81f39715.png) https://discord.gg/4mVjKkAKu3
+
 <!--
 **iconFehu/iconFehu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

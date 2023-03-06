@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working in Wuhan China.
 - 🌱 I’m currently using JS & TS, Java。
-- 📫 Reach me: 987751945@qq.com https://discord.gg/4mVjKkAKu3
+- 📫 Reach me: 987751945@qq.com | https://discord.gg/4mVjKkAKu3
 - 😄 Pronouns: Arvin
 - 👏 Follow Me: [![](https://img.shields.io/github/followers/iconFehu?label=follow%20me&style=social)](https://github.com/iconFehu/)
 
